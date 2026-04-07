@@ -4,3 +4,11 @@ ultralytics
 opencv-python
 python-multipart
 numpy
+fastapi
+uvicorn
+python-multipart
+ultralytics
+opencv-python
+torch
+torchvision
+numpy
